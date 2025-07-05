@@ -8,7 +8,7 @@ Nanchang University Student | LLM Enthusiast | AI Explorer
 
 - 🔭 I’m currently working on cv
 - 🌱 I’m currently learning knowledge related AI
-- 👯 I’m looking to collaborate on LLM-based Digital Forensics- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on LLM-based Digital Forensics
 - 📫 How to reach me:1542767141
 
   
